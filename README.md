@@ -21,5 +21,5 @@ I used this script to simplify my life with the oswp lab
 ## Usage
 
 1. Run the script with the required parameters:
-`./wifi_crack.sh <interface> <wordlist>`
+`./scriptoswp.sh <interface> <wordlist>`
 
